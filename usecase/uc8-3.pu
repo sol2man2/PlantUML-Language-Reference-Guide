@@ -1,0 +1,9 @@
+@startuml
+
+:user: --> (dummyLeft)
+:user: --> (dummyRight)
+:user: --> (dummyUp)
+:user: --> (dummyDown)
+
+@enduml
+

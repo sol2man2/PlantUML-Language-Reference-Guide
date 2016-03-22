@@ -1,0 +1,7 @@
+@startuml
+
+class System << (S, #FF7700) Singleton >>
+class Data << (D,orchid) >>
+
+@enduml
+

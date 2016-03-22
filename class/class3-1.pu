@@ -1,0 +1,14 @@
+@startuml
+
+class Dummy{
+    String data
+    void methods()
+}
+
+class Fight {
+    flightNumber : Integer
+    departureTime : Date
+}
+
+@enduml
+

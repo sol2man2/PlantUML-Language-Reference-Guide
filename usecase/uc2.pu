@@ -1,0 +1,10 @@
+@startuml
+
+:First Actor:
+:Another Actor:
+
+actor Men3
+actor :Last actor: as Men4
+
+@enduml
+

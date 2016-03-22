@@ -1,0 +1,11 @@
+@startuml
+
+Object <|-- ArrayList
+
+Object : equals()
+ArrayList : Object[] elementData
+ArrayList : elements : Obj[]
+ArrayList : size()
+
+@enduml
+
