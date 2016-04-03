@@ -1,0 +1,11 @@
+@startuml
+
+title Very simple component\ndiagram
+
+interface "Data Access" as DA
+
+DA - [First Component]
+[First Component] ..> HTTP : use
+
+@enduml
+
